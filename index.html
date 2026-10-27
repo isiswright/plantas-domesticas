@@ -8,10 +8,19 @@
   <link rel="stylesheet" href="style.css" />
   <script defer src="plants.js"></script>
   <script defer src="app.js"></script>
+  <script defer src="i18n.js"></script>
 </head>
 <body>
   <a class="skip" href="#catalogo">Ir para o catálogo</a>
   <header class="topbar"><div class="container nav"><a href="#inicio" class="brand" aria-label="Raiz e Lar, início"><span class="brand-icon">✳</span> Raiz<span>&</span>Lar</a><nav aria-label="Menu principal"><a href="#catalogo">Explorar plantas</a><a href="#sobre">Sobre o projeto</a></nav><a class="nav-cta" href="#catalogo">Encontrar minha planta <span aria-hidden="true">↗</span></a></div></header>
+  <label class="language-wrap" for="language-selector">
+  🌐
+  <select id="language-selector" aria-label="Selecionar idioma">
+    <option value="pt">Português</option>
+    <option value="en">English</option>
+    <option value="es">Español</option>
+  </select>
+</label>
   <main>
     <section class="hero" id="inicio"><div class="container hero-grid"><div class="hero-copy"><span class="eyebrow"><span class="dot"></span> SEU GUIA VERDE PARA CASA</span><h1>Um lar mais verde começa com a <em>planta certa.</em></h1><p>Descubra espécies que combinam com seu espaço, sua rotina e seus animais de estimação. Cultivar pode ser simples.</p><div class="hero-actions"><a href="#catalogo" class="button button-primary">Explorar plantas <span aria-hidden="true">↗</span></a><a href="#sobre" class="text-link">Conheça o projeto <span aria-hidden="true">→</span></a></div><div class="hero-proof"><span class="proof-icon">♡</span><span>Escolhas conscientes para você e seus pets</span></div></div><div class="hero-visual" role="img" aria-label="Plantas naturais decorando uma sala iluminada"><div class="hero-photo"></div><div class="floating-note"><span>✦</span><div><strong>Um respiro de natureza</strong><small>Para todos os cantos da casa.</small></div></div></div></div></section>
     <section class="features container" aria-label="Benefícios"><div><span class="feature-icon">☀</span><strong>Luz ideal</strong><small>Plantas para cada iluminação</small></div><div><span class="feature-icon">⌂</span><strong>Seu ambiente</strong><small>Da sala ao banheiro</small></div><div><span class="feature-icon">♡</span><strong>Pets primeiro</strong><small>Informações de toxicidade</small></div><div><span class="feature-icon">❋</span><strong>Cuidados simples</strong><small>Rega, solo e manutenção</small></div></section>
