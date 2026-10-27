@@ -15,7 +15,6 @@ fitonia: 'https://images.unsplash.com/photo-1501004318641-b39e6451bec6?auto=form
 'cacto-natal': 'https://images.unsplash.com/photo-1509423350716-97f9360b4e09?auto=format&fit=crop&w=900&q=85',
 rosa: 'https://images.unsplash.com/photo-1468327768560-75b778cbb551?auto=format&fit=crop&w=900&q=85'
 };
-// Fotos decorativas de referência: não são identificação botânica das espécies.
 const $ = (selector) => document.querySelector(selector);
 const cards = $('#cards');
 const dialog = $('#plant-dialog');
