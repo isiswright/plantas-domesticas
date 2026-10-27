@@ -14,10 +14,10 @@ As imagens são creditadas aos seus respectivos autores, conforme as licenças d
 
 ## 
 
-- **Fotógrafo:**
-- **Imagem:**
-- **Fonte:** 
-- **Licença:** 
+- **Fotógrafo:** Krzysztof Ziarnek, Kenraiz
+- **Imagem:** Spathiphyllum wallisii kz1.jpg
+- **Fonte:** [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Spathiphyllum_wallisii_kz1.jpg)
+- **Licença:** [Creative Commons Attribution-ShareAlike 4.0 (CC BY-SA 4.0)](https://creativecommons.org/licenses/by-sa/4.0/)
 - **Alterações:** 
 
 
