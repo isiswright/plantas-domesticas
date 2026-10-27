@@ -1,12 +1,12 @@
 const photos = {
-  clorofito:'https://images.unsplash.com/photo-1485955900006-10f4d324d411?auto=format&fit=crop&w=900&q=85',
-  jiboia:'https://images.unsplash.com/photo-1501004318641-b39e6451bec6?auto=format&fit=crop&w=900&q=85',
-  espada:'https://images.unsplash.com/photo-1459156212016-c812468e2115?auto=format&fit=crop&w=900&q=85',
-  maranta:'https://images.unsplash.com/photo-1497250681960-ef046c08a56e?auto=format&fit=crop&w=900&q=85',
-  lirio:'https://images.unsplash.com/photo-1416879595882-3373a0480b5b?auto=format&fit=crop&w=900&q=85',
-  palmeira:'https://images.unsplash.com/photo-1441974231531-c6227db76b6e?auto=format&fit=crop&w=900&q=85',
-  babosa:'https://images.unsplash.com/photo-1509423350716-97f9360b4e09?auto=format&fit=crop&w=900&q=85',
-  violeta:'https://images.unsplash.com/photo-1468327768560-75b778cbb551?auto=format&fit=crop&w=900&q=85'
+  clorofito: 'images/clorofito.jpg',
+  jiboia: 'images/jiboia.jpg',
+  espada: 'images/espada.jpg',
+  maranta: 'images/maranta.jpg',
+  lirio: 'images/lirio.jpg',
+  palmeira: 'images/palmeira.jpg',
+  babosa: 'images/babosa.jpg',
+  violeta: 'images/violeta.jpg'
 };
 // Fotos decorativas de referência: não são identificação botânica das espécies.
 const $ = (selector) => document.querySelector(selector);
