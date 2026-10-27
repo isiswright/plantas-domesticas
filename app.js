@@ -7,7 +7,6 @@ const photos = {
   palmeira: 'images/palmeira.jpg',
   babosa: 'images/babosa.jpg',
   violeta: 'images/violeta.jpg',
-
   bromelia: 'https://images.unsplash.com/photo-1497250681960-ef046c08a56e?auto=format&fit=crop&w=900&q=85',
   'rabo-burro': 'https://images.unsplash.com/photo-1509423350716-97f9360b4e09?auto=format&fit=crop&w=900&q=85',
   echeveria: 'https://images.unsplash.com/photo-1459156212016-c812468e2115?auto=format&fit=crop&w=900&q=85',
