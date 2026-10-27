@@ -16,7 +16,12 @@ const photos = {
   fitonia: 'images/fitonia.jpg',
   'polka-dot': 'images/polka-dot.jpg',
   'cacto-natal': 'images/cacto-natal.jpg',
-  rosa: 'images/rosa.jpg'
+  rosa: 'images/rosa.jpg',
+  costela: 'images/costela.jpg',
+  zamioculca: 'images/zamioculca.jpg',
+  'filodendro-coracao': 'images/filodendro-coracao.jpg',
+  dracena: 'images/dracena.jpg'
+};
 };
 const $ = (selector) => document.querySelector(selector);
 const cards = $('#cards');
