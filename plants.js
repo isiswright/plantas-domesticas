@@ -147,5 +147,61 @@ window.PLANTS = [
   soil: 'Solo fértil, rico em matéria orgânica e bem drenado.',
   care: 'Precisa de sol, ventilação e podas periódicas. Os espinhos podem machucar animais.',
   description: 'Planta ornamental conhecida por suas flores perfumadas e variadas cores.'
+},
+  {
+  id: 'costela',
+  name: 'Costela-de-adão',
+  scientific: 'Monstera deliciosa',
+  emoji: '🌿',
+  color: '#d7e5d4',
+  environment: ['Sala', 'Quarto', 'Escritório'],
+  light: ['indireta'],
+  pets: 'toxic',
+  water: 'Regue quando os primeiros centímetros do substrato estiverem secos.',
+  soil: 'Substrato rico em matéria orgânica, arejado e bem drenado.',
+  care: 'Evite sol direto intenso. Ofereça um tutor para apoiar seu crescimento.',
+  description: 'Planta tropical com folhas grandes e recortadas, muito utilizada na decoração de interiores.'
+},
+{
+  id: 'zamioculca',
+  name: 'Zamioculca',
+  scientific: 'Zamioculcas zamiifolia',
+  emoji: '🪴',
+  color: '#dce8d8',
+  environment: ['Sala', 'Quarto', 'Escritório'],
+  light: ['indireta', 'baixa'],
+  pets: 'toxic',
+  water: 'Regue apenas quando boa parte do substrato estiver seca.',
+  soil: 'Substrato leve e bem drenado.',
+  care: 'Evite excesso de água. Tolera pouca luz, mas cresce melhor com luz indireta.',
+  description: 'Planta resistente, com folhas verdes e brilhantes, conhecida por exigir pouca manutenção.'
+},
+{
+  id: 'filodendro-coracao',
+  name: 'Filodendro-coração',
+  scientific: 'Philodendron hederaceum',
+  emoji: '💚',
+  color: '#d8e7d5',
+  environment: ['Sala', 'Quarto', 'Escritório'],
+  light: ['indireta'],
+  pets: 'toxic',
+  water: 'Regue quando a camada superficial do substrato estiver seca.',
+  soil: 'Substrato fértil, leve e bem drenado.',
+  care: 'Pode crescer como planta pendente ou trepadeira. Evite sol direto forte.',
+  description: 'Trepadeira ornamental com folhas em formato de coração, ideal para vasos suspensos.'
+},
+{
+  id: 'dracena',
+  name: 'Dracena',
+  scientific: 'Dracaena fragrans',
+  emoji: '🌴',
+  color: '#dce5d4',
+  environment: ['Sala', 'Quarto', 'Escritório'],
+  light: ['indireta', 'baixa'],
+  pets: 'toxic',
+  water: 'Regue quando os primeiros centímetros do solo estiverem secos.',
+  soil: 'Substrato fértil e bem drenado.',
+  care: 'Prefere luz indireta. Evite encharcamento e correntes de ar frio.',
+  description: 'Planta tropical de folhas longas e arqueadas, frequentemente utilizada em salas e escritórios.'
 }
 ];
