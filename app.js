@@ -2,11 +2,8 @@ const photos = {
   clorofito: 'images/clorofito.jpg',
   jiboia: 'images/jiboia.jpg',
   espada: 'images/espada.jpg',
-  maranta: 'images/maranta.jpg',
   lirio: 'images/lirio.jpg',
   palmeira: 'images/palmeira.jpg',
-  babosa: 'images/babosa.jpg',
-  violeta: 'images/violeta.jpg'
 };
 // Fotos decorativas de referência: não são identificação botânica das espécies.
 const $ = (selector) => document.querySelector(selector);
