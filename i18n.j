@@ -1,4 +1,4 @@
-/* Raiz & Lar — traduções PT / EN / ES. Carregue depois de app.js. */
+* Raiz & Lar — traduções PT / EN / ES. Carregue depois de app.js. */
 (() => {
   'use strict';
   const original = (window.PLANTS || []).map(p => ({...p, environment:[...p.environment], light:[...p.light]}));
