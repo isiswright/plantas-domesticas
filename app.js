@@ -7,16 +7,16 @@ const photos = {
   palmeira: 'images/palmeira.jpg',
   babosa: 'images/babosa.jpg',
   violeta: 'images/violeta.jpg',
-  bromelia: 'https://images.unsplash.com/photo-1497250681960-ef046c08a56e?auto=format&fit=crop&w=900&q=85',
-  'rabo-burro': 'https://images.unsplash.com/photo-1509423350716-97f9360b4e09?auto=format&fit=crop&w=900&q=85',
-  echeveria: 'https://images.unsplash.com/photo-1459156212016-c812468e2115?auto=format&fit=crop&w=900&q=85',
-  'palmeira-rabo-peixe': 'https://images.unsplash.com/photo-1441974231531-c6227db76b6e?auto=format&fit=crop&w=900&q=85',
-  'palmeira-rabo-cavalo': 'https://images.unsplash.com/photo-1485955900006-10f4d324d411?auto=format&fit=crop&w=900&q=85',
-  gloxinia: 'https://images.unsplash.com/photo-1468327768560-75b778cbb551?auto=format&fit=crop&w=900&q=85',
-  fitonia: 'https://images.unsplash.com/photo-1501004318641-b39e6451bec6?auto=format&fit=crop&w=900&q=85',
-  'polka-dot': 'https://images.unsplash.com/photo-1497250681960-ef046c08a56e?auto=format&fit=crop&w=900&q=85',
-  'cacto-natal': 'https://images.unsplash.com/photo-1509423350716-97f9360b4e09?auto=format&fit=crop&w=900&q=85',
-  rosa: 'https://images.unsplash.com/photo-1468327768560-75b778cbb551?auto=format&fit=crop&w=900&q=85'
+  bromelia: 'images/bromelia.jpg',
+  'rabo-burro': 'images/rabo-burro.jpg',
+  echeveria: 'images/echeveria.jpg',
+  'palmeira-rabo-peixe': 'images/palmeira-rabo-peixe.jpg',
+  'palmeira-rabo-cavalo': 'images/palmeira-rabo-cavalo.jpg',
+  gloxinia: 'images/gloxinia.jpg',
+  fitonia: 'images/fitonia.jpg',
+  'polka-dot': 'images/polka-dot.jpg',
+  'cacto-natal': 'images/cacto-natal.jpg',
+  rosa: 'images/rosa.jpg'
 };
 const $ = (selector) => document.querySelector(selector);
 const cards = $('#cards');
