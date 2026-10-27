@@ -58,11 +58,11 @@ window.PLANTS = [
   color: '#d7e7d5',
   environment: ['Sala', 'Varanda'],
   light: ['indireta'],
-  pets: 'safe',
+  pets: 'toxic',
   water: 'Manter o substrato levemente úmido, sem encharcar.',
   soil: 'Solo fértil, rico em matéria orgânica e bem drenado.',
-  care: 'Precisa de espaço para crescer e aprecia ambientes úmidos.',
-  description: 'Palmeira tropical com folhas de formato semelhante à cauda de um peixe.'
+  care: 'Precisa de espaço e umidade. Seus frutos contêm cristais de oxalato de cálcio e não devem ser ingeridos por animais.',
+  description: 'Palmeira tropical de folhas recortadas. Seus frutos são tóxicos e representam risco para cães e gatos.'
 },
 {
   id: 'palmeira-rabo-cavalo',
