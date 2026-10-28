@@ -79,7 +79,17 @@
   selector.addEventListener('change',e=>changeLanguage(e.target.value));
   const search=document.querySelector('#search');if(search)search.setAttribute('data-i18n-placeholder','');
   const dialog=document.querySelector('#plant-dialog');
-  if(dialog){const observer=new MutationObserver(()=>translateText(dialog));observer.observe(dialog,{childList:true,subtree:true});}
+  if (dialog) {
+  const observer = new MutationObserver((mutations) => {
+    if (mutations.some(m => m.target.id === 'dialog-body')) {
+      observer.disconnect();
+      translateText(dialog);
+      observer.observe(dialog, { childList: true, subtree: true });
+    }
+  });
+
+  observer.observe(dialog, { childList: true, subtree: true });
+}
   // Update dynamic cards after search/filter interactions.
   ['search','environment','light','pets','favorites-only','clear'].forEach(id=>{
     const el=document.getElementById(id);if(!el)return;
