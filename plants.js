@@ -1,4 +1,4 @@
-// Catálogo inicial demonstrativo. Validar os dados botânicos com fontes especializadas.
+// Catálogo com dados validados nos sites ASPCA e no NC STATE EXTENSION.
 window.PLANTS = [
   {id:'clorofito',name:'Clorofito',scientific:'Chlorophytum comosum',emoji:'🌱',color:'#dfe9d1',environment:['Sala','Quarto','Cozinha'],light:['indireta'],pets:'safe',water:'Regue quando a camada superficial do solo estiver seca.',soil:'Substrato leve, bem drenado.',care:'Evite sol intenso e água acumulada no vaso.',description:'Folhagem arqueada, resistente e ótima para vasos suspensos.'},
   {id:'jiboia',name:'Jiboia',scientific:'Epipremnum aureum',emoji:'🌿',color:'#d7e3bf',environment:['Sala','Quarto','Cozinha'],light:['indireta','baixa'],pets:'toxic',water:'Deixe a superfície do substrato secar entre regas.',soil:'Solo rico em matéria orgânica, com boa drenagem.',care:'Pode ser conduzida como trepadeira ou pendente.',description:'Uma trepadeira popular de folhas em formato de coração.'},
