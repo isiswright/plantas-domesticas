@@ -22,7 +22,6 @@ const photos = {
   'filodendro-coracao': 'images/filodendro-coracao.jpg',
   dracena: 'images/dracena.jpg'
 };
-};
 const $ = (selector) => document.querySelector(selector);
 const cards = $('#cards');
 const dialog = $('#plant-dialog');
