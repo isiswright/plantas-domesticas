@@ -205,20 +205,6 @@ window.PLANTS = [
   description: 'Planta tropical de folhas ornamentais com desenhos verdes semelhantes às penas de um pavão.'
 },
 {
-  id: 'dracena',
-  name: 'Dracena',
-  scientific: 'Dracaena fragrans',
-  emoji: '🌱',
-  color: '#DCE6CE',
-  environment: ['Sala', 'Quarto', 'Escritório'],
-  light: ['indireta', 'baixa'],
-  pets: 'toxic',
-  water: 'Regue moderadamente, deixando a camada superficial do solo secar entre as regas. Reduza no inverno.',
-  soil: 'Substrato para plantas de interior, com boa drenagem.',
-  care: 'Evite sol direto intenso, excesso de água e correntes de ar frio. Mantenha longe dos pets.',
-  description: 'Planta de crescimento lento, com caule lenhoso e folhas longas e arqueadas.'
-},
-{
   id: 'figueira',
   name: 'Figueira-lira',
   scientific: 'Ficus lyrata',
