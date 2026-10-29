@@ -158,7 +158,7 @@ window.PLANTS = [
   pets: 'toxic',
   water: 'Regue apenas quando boa parte do substrato estiver seca.',
   soil: 'Substrato leve e bem drenado.',
-  care: 'Evite excesso de água. Tolera pouca luz, mas cresce melhor com luz indireta.',
+  care: 'Evite excesso de água. Regue uma vez por mês no inverno e duas vezes no verão, somente quando o solo estiver completamente seco. Tolera pouca luz, mas cresce melhor com luz indireta.',
   description: 'Planta resistente, com folhas verdes e brilhantes, conhecida por exigir pouca manutenção.'
 },
 {
