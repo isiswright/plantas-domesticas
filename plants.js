@@ -189,4 +189,75 @@ window.PLANTS = [
   care: 'Prefere luz indireta. Evite encharcamento e correntes de ar frio.',
   description: 'Planta tropical de folhas longas e arqueadas, frequentemente utilizada em salas e escritórios.'
 }
+  
+{
+  id: 'calateia',
+  name: 'Calateia-pavão',
+  scientific: 'Goeppertia makoyana',
+  emoji: '🌿',
+  color: '#DCE8D5',
+  environment: ['Sala', 'Quarto', 'Banheiro', 'Escritório'],
+  light: ['indireta'],
+  pets: 'safe',
+  water: 'Mantenha o solo levemente úmido, sem encharcar. Reduza a rega no inverno.',
+  soil: 'Substrato rico em matéria orgânica, com perlita e boa drenagem.',
+  care: 'Prefere alta umidade e temperaturas amenas. Use água filtrada ou da chuva e evite sol direto.',
+  description: 'Planta tropical de folhas ornamentais com desenhos verdes semelhantes às penas de um pavão.'
+},
+{
+  id: 'dracena',
+  name: 'Dracena',
+  scientific: 'Dracaena fragrans',
+  emoji: '🌱',
+  color: '#DCE6CE',
+  environment: ['Sala', 'Quarto', 'Escritório'],
+  light: ['indireta', 'baixa'],
+  pets: 'toxic',
+  water: 'Regue moderadamente, deixando a camada superficial do solo secar entre as regas. Reduza no inverno.',
+  soil: 'Substrato para plantas de interior, com boa drenagem.',
+  care: 'Evite sol direto intenso, excesso de água e correntes de ar frio. Mantenha longe dos pets.',
+  description: 'Planta de crescimento lento, com caule lenhoso e folhas longas e arqueadas.'
+},
+{
+  id: 'figueira',
+  name: 'Figueira-lira',
+  scientific: 'Ficus lyrata',
+  emoji: '🌳',
+  color: '#D4E3CF',
+  environment: ['Sala', 'Quarto', 'Escritório'],
+  light: ['indireta'],
+  pets: 'toxic',
+  water: 'Regue quando a superfície do substrato começar a secar, evitando encharcamento.',
+  soil: 'Solo rico, levemente ácido e bem drenado.',
+  care: 'Prefere luz indireta intensa e temperatura estável. Evite sol forte da tarde e mantenha longe dos pets.',
+  description: 'Árvore tropical ornamental com folhas grandes, verdes e nervuras bem marcadas.'
+},
+{
+  id: 'orquidea',
+  name: 'Orquídea-borboleta',
+  scientific: 'Phalaenopsis sp.',
+  emoji: '🌸',
+  color: '#E7DCE8',
+  environment: ['Sala', 'Quarto', 'Banheiro', 'Escritório'],
+  light: ['indireta'],
+  pets: 'safe',
+  water: 'Regue quando o substrato estiver próximo de secar, permitindo a saída completa do excesso de água.',
+  soil: 'Substrato próprio para orquídeas, preferencialmente à base de casca de árvore.',
+  care: 'Prefere ambiente aquecido, úmido e com luz filtrada. Evite água acumulada nas raízes.',
+  description: 'Orquídea tropical de folhas largas e flores delicadas, muito cultivada em ambientes internos.'
+},
+{
+  id: 'samambaia',
+  name: 'Samambaia-de-boston',
+  scientific: 'Nephrolepis exaltata',
+  emoji: '🌿',
+  color: '#D5E8D2',
+  environment: ['Sala', 'Banheiro', 'Varanda'],
+  light: ['indireta'],
+  pets: 'safe',
+  water: 'Mantenha o substrato úmido, sem encharcar. Reduza a frequência no inverno.',
+  soil: 'Substrato rico em matéria orgânica, com boa drenagem.',
+  care: 'Prefere alta umidade e luz indireta. Evite ar muito seco e exposição prolongada ao sol forte.',
+  description: 'Samambaia de folhagem volumosa e arqueada, ideal para vasos suspensos e ambientes úmidos.'
+}
 ];
