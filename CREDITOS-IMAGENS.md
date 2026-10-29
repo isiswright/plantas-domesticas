@@ -20,6 +20,21 @@ As imagens são creditadas aos seus respectivos autores, conforme as licenças d
 - **Licença:** [Creative Commons Attribution-ShareAlike 4.0 (CC BY-SA 4.0)](https://creativecommons.org/licenses/by-sa/4.0/)
 - **Alterações:** 
 
+## 
+
+- **Fotógrafo:** Bachelot Pierre JP
+- **Imagem:** Chamaedorea elegans Mart.JPG
+- **Fonte:** (https://commons.wikimedia.org/wiki/File:Chamaedorea_elegans_Mart.JPG)
+- **Licença:** Licença Creative Commons Atribuição-Compartilha Igual 3.0
+- **Alterações:**
+
+- ## 
+
+- **Fotógrafo:** 
+- **Imagem:** 
+- **Fonte:** 
+- **Licença:** 
+- **Alterações:**
 
 ---
 
