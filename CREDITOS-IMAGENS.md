@@ -30,6 +30,14 @@ As imagens são creditadas aos seus respectivos autores, conforme as licenças d
 
 - ## 
 
+- **Fotógrafo:** Timm Stolten
+- **Imagem:** Guzmania lingulata var. lingulata (TS) 2-03394.jpg
+- **Fonte:** (https://commons.wikimedia.org/wiki/File:Guzmania_lingulata_var._lingulata_(TS)_2-03394.jpg)
+- **Licença:** https://creativecommons.org/licenses/by-sa/3.0/
+- **Alterações:**
+
+- - ## 
+
 - **Fotógrafo:** 
 - **Imagem:** 
 - **Fonte:** 
