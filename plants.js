@@ -188,8 +188,7 @@ window.PLANTS = [
   soil: 'Substrato fértil e bem drenado.',
   care: 'Prefere luz indireta. Evite encharcamento e correntes de ar frio.',
   description: 'Planta tropical de folhas longas e arqueadas, frequentemente utilizada em salas e escritórios.'
-}
-  
+}, 
 {
   id: 'calateia',
   name: 'Calateia-pavão',
