@@ -20,7 +20,11 @@ const photos = {
   costela: 'images/costela.jpg',
   zamioculca: 'images/zamioculca.jpg',
   'filodendro-coracao': 'images/filodendro-coracao.jpg',
-  dracena: 'images/dracena.jpg'
+  dracena: 'images/dracena.jpg',
+  calateia: 'images/calateia.jpg',
+  figueira: 'images/figueira.jpg',
+  orquidea: 'images/orquidea.jpg',
+  samambaia: 'images/samambaia.jpg'
 };
 const $ = (selector) => document.querySelector(selector);
 const cards = $('#cards');
