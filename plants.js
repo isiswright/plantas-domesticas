@@ -1,4 +1,4 @@
-// Catálogo com dados validados nos sites ASPCA e no NC STATE EXTENSION.
+// Catálogo inicial demonstrativo. Validar os dados botânicos com fontes especializadas.
 window.PLANTS = [
   {id:'clorofito',name:'Clorofito',scientific:'Chlorophytum comosum',emoji:'🌱',color:'#dfe9d1',environment:['Sala','Quarto','Cozinha'],light:['indireta'],pets:'safe',water:'Regue quando a camada superficial do solo estiver seca.',soil:'Substrato leve, bem drenado.',care:'Evite sol intenso e água acumulada no vaso.',description:'Folhagem arqueada, resistente e ótima para vasos suspensos.'},
   {id:'jiboia',name:'Jiboia',scientific:'Epipremnum aureum',emoji:'🌿',color:'#d7e3bf',environment:['Sala','Quarto','Cozinha'],light:['indireta','baixa'],pets:'toxic',water:'Deixe a superfície do substrato secar entre regas.',soil:'Solo rico em matéria orgânica, com boa drenagem.',care:'Pode ser conduzida como trepadeira ou pendente.',description:'Uma trepadeira popular de folhas em formato de coração.'},
@@ -158,7 +158,7 @@ window.PLANTS = [
   pets: 'toxic',
   water: 'Regue apenas quando boa parte do substrato estiver seca.',
   soil: 'Substrato leve e bem drenado.',
-  care: 'Evite excesso de água. Regue uma vez por mês no inverno e duas vezes no verão, somente quando o solo estiver completamente seco. Tolera pouca luz, mas cresce melhor com luz indireta.',
+  care: 'Evite excesso de água. Tolera pouca luz, mas cresce melhor com luz indireta.',
   description: 'Planta resistente, com folhas verdes e brilhantes, conhecida por exigir pouca manutenção.'
 },
 {
@@ -188,61 +188,5 @@ window.PLANTS = [
   soil: 'Substrato fértil e bem drenado.',
   care: 'Prefere luz indireta. Evite encharcamento e correntes de ar frio.',
   description: 'Planta tropical de folhas longas e arqueadas, frequentemente utilizada em salas e escritórios.'
-}, 
-{
-  id: 'calateia',
-  name: 'Calateia-pavão',
-  scientific: 'Goeppertia makoyana',
-  emoji: '🌿',
-  color: '#DCE8D5',
-  environment: ['Sala', 'Quarto', 'Banheiro', 'Escritório'],
-  light: ['indireta'],
-  pets: 'safe',
-  water: 'Mantenha o solo levemente úmido, sem encharcar. Reduza a rega no inverno.',
-  soil: 'Substrato rico em matéria orgânica, com perlita e boa drenagem.',
-  care: 'Prefere alta umidade e temperaturas amenas. Use água filtrada ou da chuva e evite sol direto.',
-  description: 'Planta tropical de folhas ornamentais com desenhos verdes semelhantes às penas de um pavão.'
-},
-{
-  id: 'figueira',
-  name: 'Figueira-lira',
-  scientific: 'Ficus lyrata',
-  emoji: '🌳',
-  color: '#D4E3CF',
-  environment: ['Sala', 'Quarto', 'Escritório'],
-  light: ['indireta'],
-  pets: 'toxic',
-  water: 'Regue quando a superfície do substrato começar a secar, evitando encharcamento.',
-  soil: 'Solo rico, levemente ácido e bem drenado.',
-  care: 'Prefere luz indireta intensa e temperatura estável. Evite sol forte da tarde e mantenha longe dos pets.',
-  description: 'Árvore tropical ornamental com folhas grandes, verdes e nervuras bem marcadas.'
-},
-{
-  id: 'orquidea',
-  name: 'Orquídea-borboleta',
-  scientific: 'Phalaenopsis sp.',
-  emoji: '🌸',
-  color: '#E7DCE8',
-  environment: ['Sala', 'Quarto', 'Banheiro', 'Escritório'],
-  light: ['indireta'],
-  pets: 'safe',
-  water: 'Regue quando o substrato estiver próximo de secar, permitindo a saída completa do excesso de água.',
-  soil: 'Substrato próprio para orquídeas, preferencialmente à base de casca de árvore.',
-  care: 'Prefere ambiente aquecido, úmido e com luz filtrada. Evite água acumulada nas raízes.',
-  description: 'Orquídea tropical de folhas largas e flores delicadas, muito cultivada em ambientes internos.'
-},
-{
-  id: 'samambaia',
-  name: 'Samambaia-de-boston',
-  scientific: 'Nephrolepis exaltata',
-  emoji: '🌿',
-  color: '#D5E8D2',
-  environment: ['Sala', 'Banheiro', 'Varanda'],
-  light: ['indireta'],
-  pets: 'safe',
-  water: 'Mantenha o substrato úmido, sem encharcar. Reduza a frequência no inverno.',
-  soil: 'Substrato rico em matéria orgânica, com boa drenagem.',
-  care: 'Prefere alta umidade e luz indireta. Evite ar muito seco e exposição prolongada ao sol forte.',
-  description: 'Samambaia de folhagem volumosa e arqueada, ideal para vasos suspensos e ambientes úmidos.'
 }
 ];
