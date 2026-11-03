@@ -27,7 +27,6 @@ const photos = {
   samambaia: 'images/samambaia.jpg',
   'calateia-cascavel': 'images/calateia-cascavel.jpg',
   'flor-de-cera': 'images/flor-de-cera.jpg',
-  'planta-batom': 'images/planta-batom.jpg',
   'anturio': 'images/anturio.jpg',
   'singonio': 'images/singonio.jpg',
   'aspidistra': 'images/aspidistra.jpg',

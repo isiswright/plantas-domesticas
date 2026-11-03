@@ -274,20 +274,6 @@ window.PLANTS = [
   description: 'Trepadeira de folhas grossas, com cachos de flores que parecem feitas de cera.'
 },
 {
-  id: 'planta-batom',
-  name: 'Planta-batom',
-  scientific: 'Aeschynanthus humilis',
-  emoji: '🌺',
-  color: '#e9dfdc',
-  environment: ['Banheiro', 'Sala'],
-  light: ['indireta'],
-  pets: 'safe',
-  water: 'Regue com frequência, sem deixar o substrato encharcado.',
-  soil: 'Substrato rico em matéria orgânica e bem drenado.',
-  care: 'Gosta de umidade alta, mas com boa ventilação. Mantenha as folhas secas para evitar fungos.',
-  description: 'Planta pendente de folhas brilhantes e flores vermelhas tubulares, ideal para vasos suspensos.'
-},
-{
   id: 'anturio',
   name: 'Antúrio',
   scientific: 'Anthurium andraeanum',
