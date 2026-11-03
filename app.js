@@ -24,7 +24,17 @@ const photos = {
   calateia: 'images/calateia.jpg',
   figueira: 'images/figueira.jpg',
   orquidea: 'images/orquidea.jpg',
-  samambaia: 'images/samambaia.jpg'
+  samambaia: 'images/samambaia.jpg',
+  'calateia-cascavel': 'images/calateia-cascavel.jpg',
+  'flor-de-cera': 'images/flor-de-cera.jpg',
+  'planta-batom': 'images/planta-batom.jpg',
+  'anturio': 'images/anturio.jpg',
+  'singonio': 'images/singonio.jpg',
+  'aspidistra': 'images/aspidistra.jpg',
+  'palmeira-rafis': 'images/palmeira-rafis.jpg',
+  'peperomia': 'images/peperomia.jpg',
+  'aglaonema': 'images/aglaonema.jpg',
+  'comigo-ninguem-pode': 'images/comigo-ninguem-pode.jpg'
 };
 const $ = (selector) => document.querySelector(selector);
 const cards = $('#cards');
@@ -45,7 +55,7 @@ function render(){
   const results = window.PLANTS.filter(p => (!query || `${p.name} ${p.scientific}`.toLocaleLowerCase('pt-BR').includes(query)) && (!env || p.environment.includes(env)) && (!light || p.light.includes(light)) && (!pet || p.pets === pet) && (!onlyFavorites || favorites.has(p.id)));
   $('#count').textContent = `${results.length} ${results.length===1?'planta encontrada':'plantas encontradas'}`;
   $('#empty').hidden = results.length > 0;
-  cards.innerHTML = results.map(p => `<article class="plant-card"><div class="card-art" style="--plant-bg:${p.color}"><img class="plant-photo" src="${photos[p.id]}" alt="Fotografia botânica decorativa" loading="lazy" onerror="this.style.display='none';this.nextElementSibling.style.display='block'"/><span class="plant-emoji" style="display:none" aria-hidden="true">${p.emoji}</span><button class="heart ${favorites.has(p.id)?'active':''}" data-favorite="${p.id}" aria-label="${favorites.has(p.id)?'Remover dos':'Adicionar aos'} favoritos: ${escapeHtml(p.name)}" aria-pressed="${favorites.has(p.id)}">${favorites.has(p.id)?'♥':'♡'}</button></div><div class="card-body"><span class="pet-tag ${p.pets}">${petLabel(p.pets)}</span><h3>${escapeHtml(p.name)}</h3><p class="scientific">${escapeHtml(p.scientific)}</p><p class="card-description">${escapeHtml(p.description)}</p><div class="card-meta"><span>☀ ${lightLabel(p.light[0])}</span><span>⌂ ${escapeHtml(p.environment.join(', '))}</span></div><button class="details-button" data-detail="${p.id}">Ver cuidados <span aria-hidden="true">↗</span></button></div></article>`).join('');
+  cards.innerHTML = results.map(p => `<article class="plant-card"><div class="card-art" style="--plant-bg:${p.color}"><img class="plant-photo" src="${photos[p.id]}" alt="Fotografia botânica decorativa" loading="lazy" onerror="this.style.display='none';this.nextElementSibling.style.display='block'"/><span class="plant-emoji" style="display:none" aria-hidden="true">${p.emoji}</span><button class="heart ${favorites.has(p.id)?'active':''}" data-favorite="${p.id}" aria-label="${favorites.has(p.id)?'Remover dos':'Adicionar aos'} favoritos: ${escapeHtml(p.name)}" aria-pressed="${favorites.has(p.id)}">${favorites.has(p.id)?'♥':'♡'}</button></div><div class="card-body"><span class="pet-tag ${p.pets}">${petLabel(p.pets)}</span><h3>${escapeHtml(p.name)}</h3><p class="scientific">${escapeHtml(p.scientific)}</p><p class="card-description">${escapeHtml(p.description)}</p><div class="card-meta"><span>☀ ${p.light.map(lightLabel).join(' ou ')}</span><span>⌂ ${escapeHtml(p.environment.join(', '))}</span></div><button class="details-button" data-detail="${p.id}">Ver cuidados <span aria-hidden="true">↗</span></button></div></article>`).join('');
 }
 function showDetails(id){
   const p = window.PLANTS.find(p=>p.id===id); if(!p) return;
