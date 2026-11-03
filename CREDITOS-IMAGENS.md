@@ -36,7 +36,23 @@ As imagens são creditadas aos seus respectivos autores, conforme as licenças d
 - **Licença:** https://creativecommons.org/licenses/by-sa/3.0/
 - **Alterações:**
 
-- - ## 
+## Planta-ferro — Aspidistra elatior
+
+- **Fotógrafo:** (Autor)
+- **Imagem:** (nome do arquivo, ex.: Aspidistra elatior 1.jpg)
+- **Fonte:** [Wikimedia Commons](link da página do arquivo)
+- **Licença:** (ex.: CC BY-SA 4.0)
+- **Alterações:** Redimensionada e comprimida
+
+## Palmeira-ráfis — Rhapis excelsa
+
+- **Fotógrafo:** (Autor)
+- **Imagem:** (nome do arquivo)
+- **Fonte:** [Wikimedia Commons](link da página do arquivo)
+- **Licença:** (ex.: CC BY-SA 4.0)
+- **Alterações:** Redimensionada e comprimida\
+  
+## 
 
 - **Fotógrafo:** 
 - **Imagem:** 
