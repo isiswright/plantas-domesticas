@@ -28,37 +28,64 @@ As imagens são creditadas aos seus respectivos autores, conforme as licenças d
 - **Licença:** Licença Creative Commons Atribuição-Compartilha Igual 3.0
 - **Alterações:**
 
-- ## Bromélia — Guzmania lingulata
+## Bromélia — Guzmania lingulata
 
 - **Fotógrafo:** Timm Stolten
 - **Imagem:** Guzmania lingulata var. lingulata (TS) 2-03394.jpg
-- **Fonte:** (https://commons.wikimedia.org/wiki/File:Guzmania_lingulata_var._lingulata_(TS)_2-03394.jpg)
-- **Licença:** https://creativecommons.org/licenses/by-sa/3.0/
-- **Alterações:**
+- **Fonte:** [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Guzmania_lingulata_var._lingulata_(TS)_2-03394.jpg)
+- **Licença:** [Creative Commons Attribution-ShareAlike 3.0 (CC BY-SA 3.0)](https://creativecommons.org/licenses/by-sa/3.0/)
+- **Alterações:** Redimensionada e comprimida
+
+  ## Palmeira-ráfis — Rhapis excelsa
+
+- **Fotógrafo:** Eric in SF
+- **Imagem:** Rhapis excelsa.jpg
+- **Fonte:** [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Rhapis_excelsa.jpg)
+- **Licença:** [Creative Commons Attribution-ShareAlike 4.0 (CC BY-SA 4.0)](https://creativecommons.org/licenses/by-sa/4.0/)
+- **Alterações:** Redimensionada e comprimida
+  
+## Costela-de-adão — Monstera deliciosa
+
+- **Fotógrafo:** Kittykittymaomao
+- **Imagem:** (nome do arquivo)
+- **Fonte:** [Wikimedia Commons](link da página do arquivo)
+- **Licença:** [Creative Commons Attribution-ShareAlike 4.0 (CC BY-SA 4.0)](https://creativecommons.org/licenses/by-sa/4.0/)
+- **Alterações:** Redimensionada e comprimida
 
 ## Planta-ferro — Aspidistra elatior
 
-- **Fotógrafo:** (Autor)
-- **Imagem:** (nome do arquivo, ex.: Aspidistra elatior 1.jpg)
-- **Fonte:** [Wikimedia Commons](link da página do arquivo)
-- **Licença:** (ex.: CC BY-SA 4.0)
-- **Alterações:** Redimensionada e comprimida
-
-## Palmeira-ráfis — Rhapis excelsa
-
-- **Fotógrafo:** (Autor)
+- **Fotógrafo:** Nino Barbieri
 - **Imagem:** (nome do arquivo)
 - **Fonte:** [Wikimedia Commons](link da página do arquivo)
-- **Licença:** (ex.: CC BY-SA 4.0)
-- **Alterações:** Redimensionada e comprimida\
-  
-## 
+- **Licença:** [Creative Commons Attribution-ShareAlike 3.0 (CC BY-SA 3.0)](https://creativecommons.org/licenses/by-sa/3.0/)
+- **Alterações:** Redimensionada e comprimida
 
-- **Fotógrafo:** 
-- **Imagem:** 
-- **Fonte:** 
-- **Licença:** 
-- **Alterações:**
+## Aglaonema — Aglaonema commutatum
+
+- **Fotógrafo:** Digigalos
+- **Imagem:** (nome do arquivo)
+- **Fonte:** [Wikimedia Commons](link da página do arquivo)
+- **Licença:** [Creative Commons Attribution-ShareAlike 3.0 (CC BY-SA 3.0)](https://creativecommons.org/licenses/by-sa/3.0/)
+- **Alterações:** Redimensionada e comprimida
+  
+## Imagens em domínio público (sem restrições)
+
+As fotografias abaixo foram obtidas no Wikimedia Commons, em domínio público ou sob licença CC0, sem exigência de atribuição:
+
+- Babosa — Aloe vera
+- Violeta-africana — Streptocarpus ionanthus
+- Rabo-de-burro — Sedum morganianum
+- Planta-confete — Hypoestes phyllostachya
+- Roseira — Rosa spp.
+- Filodendro-coração — Philodendron hederaceum
+- Calateia-cascavel — Goeppertia insignis
+- Flor-de-cera — Hoya carnosa
+- Antúrio — Anthurium andraeanum
+- Singônio — Syngonium podophyllum
+- Comigo-ninguém-pode — Dieffenbachia seguine
+
+- **Fonte:** [Wikimedia Commons](https://commons.wikimedia.org)
+- **Licença:** Domínio público / CC0
 
 ---
 
