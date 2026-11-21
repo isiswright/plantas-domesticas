@@ -12,7 +12,7 @@ As imagens são creditadas aos seus respectivos autores, conforme as licenças d
 - **Licença:** [Creative Commons Attribution-ShareAlike 4.0 (CC BY-SA 4.0)](https://creativecommons.org/licenses/by-sa/4.0/)
 - **Alterações:**
 
-## 
+## Lírio-da-paz — Spathiphyllum wallisii
 
 - **Fotógrafo:** Krzysztof Ziarnek, Kenraiz
 - **Imagem:** Spathiphyllum wallisii kz1.jpg
@@ -20,7 +20,7 @@ As imagens são creditadas aos seus respectivos autores, conforme as licenças d
 - **Licença:** [Creative Commons Attribution-ShareAlike 4.0 (CC BY-SA 4.0)](https://creativecommons.org/licenses/by-sa/4.0/)
 - **Alterações:** 
 
-## 
+## Palmeira-chamaedórea — Chamaedorea elegans
 
 - **Fotógrafo:** Bachelot Pierre JP
 - **Imagem:** Chamaedorea elegans Mart.JPG
@@ -28,7 +28,7 @@ As imagens são creditadas aos seus respectivos autores, conforme as licenças d
 - **Licença:** Licença Creative Commons Atribuição-Compartilha Igual 3.0
 - **Alterações:**
 
-- ## 
+- ## Bromélia — Guzmania lingulata
 
 - **Fotógrafo:** Timm Stolten
 - **Imagem:** Guzmania lingulata var. lingulata (TS) 2-03394.jpg
