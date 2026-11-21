@@ -50,3 +50,15 @@ dialog{width:min(780px,calc(100% - 32px))}
   .card-art{height:320px}
   .dialog-art{height:300px}
 }
+/* Celular: fotos maiores */
+@media(max-width:650px){
+  .container{width:calc(100% - 20px)}
+  .cards{gap:18px}
+  .card-art{height:auto;aspect-ratio:4/5}
+  .plant-photo{transition:none}
+  .plant-card:hover .plant-photo{transform:none}
+
+  dialog{width:calc(100% - 12px);max-height:94vh;border-radius:10px}
+  .dialog-art{height:auto;aspect-ratio:4/5}
+  .dialog-text{padding:20px 18px 26px}
+}
