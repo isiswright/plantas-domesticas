@@ -62,3 +62,11 @@ dialog{width:min(780px,calc(100% - 32px))}
   .dialog-art{height:auto;aspect-ratio:4/5}
   .dialog-text{padding:20px 18px 26px}
 }
+/* Modal no computador: foto grande e inteira ao lado do texto */
+@media(min-width:800px){
+  dialog{width:min(1000px,calc(100% - 48px))}
+  #dialog-body{display:grid;grid-template-columns:1.1fr 1fr;max-height:90vh}
+  .dialog-art{height:auto;min-height:560px;max-height:90vh}
+  .dialog-photo{object-fit:contain}
+  .dialog-text{overflow-y:auto;max-height:90vh}
+}
